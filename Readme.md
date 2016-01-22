@@ -1,7 +1,7 @@
 # Webfont optimizer for Grunt
 
+[![Powered by You](http://sapegin.github.io/powered-by-you/badge.svg)](http://sapegin.github.io/powered-by-you/)
 [![Build Status](https://travis-ci.org/sapegin/grunt-fontoptim.png)](https://travis-ci.org/sapegin/grunt-fontoptim)
-[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 Generates CSS with WOFF(2) fonts embedded as Base64. Use these CSS to load webfonts asynchronously, avoid invisible text and reduce flickering.
 
